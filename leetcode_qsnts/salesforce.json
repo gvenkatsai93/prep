@@ -1,0 +1,3079 @@
+{
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "questions": [
+        {
+            "status": "ac",
+            "questionId": "3",
+            "questionFrontendId": "3",
+            "title": "Longest Substring Without Repeating Characters",
+            "titleSlug": "longest-substring-without-repeating-characters",
+            "acRate": "34.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "5",
+            "questionFrontendId": "5",
+            "title": "Longest Palindromic Substring",
+            "titleSlug": "longest-palindromic-substring",
+            "acRate": "33.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "9",
+            "questionFrontendId": "9",
+            "title": "Palindrome Number",
+            "titleSlug": "palindrome-number",
+            "acRate": "55.8%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "12",
+            "questionFrontendId": "12",
+            "title": "Integer to Roman",
+            "titleSlug": "integer-to-roman",
+            "acRate": "64.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "14",
+            "questionFrontendId": "14",
+            "title": "Longest Common Prefix",
+            "titleSlug": "longest-common-prefix",
+            "acRate": "42.4%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Trie",
+                    "slug": "trie"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "15",
+            "questionFrontendId": "15",
+            "title": "3Sum",
+            "titleSlug": "3sum",
+            "acRate": "34.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "20",
+            "questionFrontendId": "20",
+            "title": "Valid Parentheses",
+            "titleSlug": "valid-parentheses",
+            "acRate": "40.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "22",
+            "questionFrontendId": "22",
+            "title": "Generate Parentheses",
+            "titleSlug": "generate-parentheses",
+            "acRate": "74.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "23",
+            "questionFrontendId": "23",
+            "title": "Merge k Sorted Lists",
+            "titleSlug": "merge-k-sorted-lists",
+            "acRate": "52.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Merge Sort",
+                    "slug": "merge-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "33",
+            "questionFrontendId": "33",
+            "title": "Search in Rotated Sorted Array",
+            "titleSlug": "search-in-rotated-sorted-array",
+            "acRate": "40.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "39",
+            "questionFrontendId": "39",
+            "title": "Combination Sum",
+            "titleSlug": "combination-sum",
+            "acRate": "71.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "41",
+            "questionFrontendId": "41",
+            "title": "First Missing Positive",
+            "titleSlug": "first-missing-positive",
+            "acRate": "37.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "42",
+            "questionFrontendId": "42",
+            "title": "Trapping Rain Water",
+            "titleSlug": "trapping-rain-water",
+            "acRate": "60.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "44",
+            "questionFrontendId": "44",
+            "title": "Wildcard Matching",
+            "titleSlug": "wildcard-matching",
+            "acRate": "27.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "45",
+            "questionFrontendId": "45",
+            "title": "Jump Game II",
+            "titleSlug": "jump-game-ii",
+            "acRate": "40.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "46",
+            "questionFrontendId": "46",
+            "title": "Permutations",
+            "titleSlug": "permutations",
+            "acRate": "78.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "49",
+            "questionFrontendId": "49",
+            "title": "Group Anagrams",
+            "titleSlug": "group-anagrams",
+            "acRate": "68.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "53",
+            "questionFrontendId": "53",
+            "title": "Maximum Subarray",
+            "titleSlug": "maximum-subarray",
+            "acRate": "50.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "55",
+            "questionFrontendId": "55",
+            "title": "Jump Game",
+            "titleSlug": "jump-game",
+            "acRate": "38.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "56",
+            "questionFrontendId": "56",
+            "title": "Merge Intervals",
+            "titleSlug": "merge-intervals",
+            "acRate": "47.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "75",
+            "questionFrontendId": "75",
+            "title": "Sort Colors",
+            "titleSlug": "sort-colors",
+            "acRate": "61.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "84",
+            "questionFrontendId": "84",
+            "title": "Largest Rectangle in Histogram",
+            "titleSlug": "largest-rectangle-in-histogram",
+            "acRate": "44.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "91",
+            "questionFrontendId": "91",
+            "title": "Decode Ways",
+            "titleSlug": "decode-ways",
+            "acRate": "34.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "98",
+            "questionFrontendId": "98",
+            "title": "Validate Binary Search Tree",
+            "titleSlug": "validate-binary-search-tree",
+            "acRate": "32.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "103",
+            "questionFrontendId": "103",
+            "title": "Binary Tree Zigzag Level Order Traversal",
+            "titleSlug": "binary-tree-zigzag-level-order-traversal",
+            "acRate": "58.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "105",
+            "questionFrontendId": "105",
+            "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+            "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+            "acRate": "63.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "114",
+            "questionFrontendId": "114",
+            "title": "Flatten Binary Tree to Linked List",
+            "titleSlug": "flatten-binary-tree-to-linked-list",
+            "acRate": "64.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "115",
+            "questionFrontendId": "115",
+            "title": "Distinct Subsequences",
+            "titleSlug": "distinct-subsequences",
+            "acRate": "46.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "116",
+            "questionFrontendId": "116",
+            "title": "Populating Next Right Pointers in Each Node",
+            "titleSlug": "populating-next-right-pointers-in-each-node",
+            "acRate": "62.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "120",
+            "questionFrontendId": "120",
+            "title": "Triangle",
+            "titleSlug": "triangle",
+            "acRate": "56.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "121",
+            "questionFrontendId": "121",
+            "title": "Best Time to Buy and Sell Stock",
+            "titleSlug": "best-time-to-buy-and-sell-stock",
+            "acRate": "53.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "124",
+            "questionFrontendId": "124",
+            "title": "Binary Tree Maximum Path Sum",
+            "titleSlug": "binary-tree-maximum-path-sum",
+            "acRate": "39.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "133",
+            "questionFrontendId": "133",
+            "title": "Clone Graph",
+            "titleSlug": "clone-graph",
+            "acRate": "56.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "139",
+            "questionFrontendId": "139",
+            "title": "Word Break",
+            "titleSlug": "word-break",
+            "acRate": "46.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Trie",
+                    "slug": "trie"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "146",
+            "questionFrontendId": "146",
+            "title": "LRU Cache",
+            "titleSlug": "lru-cache",
+            "acRate": "42.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "169",
+            "questionFrontendId": "169",
+            "title": "Majority Element",
+            "titleSlug": "majority-element",
+            "acRate": "64.7%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "173",
+            "questionFrontendId": "173",
+            "title": "Binary Search Tree Iterator",
+            "titleSlug": "binary-search-tree-iterator",
+            "acRate": "71.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                },
+                {
+                    "name": "Iterator",
+                    "slug": "iterator"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "179",
+            "questionFrontendId": "179",
+            "title": "Largest Number",
+            "titleSlug": "largest-number",
+            "acRate": "35.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "199",
+            "questionFrontendId": "199",
+            "title": "Binary Tree Right Side View",
+            "titleSlug": "binary-tree-right-side-view",
+            "acRate": "62.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "200",
+            "questionFrontendId": "200",
+            "title": "Number of Islands",
+            "titleSlug": "number-of-islands",
+            "acRate": "58.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "205",
+            "questionFrontendId": "205",
+            "title": "Isomorphic Strings",
+            "titleSlug": "isomorphic-strings",
+            "acRate": "43.7%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "207",
+            "questionFrontendId": "207",
+            "title": "Course Schedule",
+            "titleSlug": "course-schedule",
+            "acRate": "46.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "210",
+            "questionFrontendId": "210",
+            "title": "Course Schedule II",
+            "titleSlug": "course-schedule-ii",
+            "acRate": "50.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "215",
+            "questionFrontendId": "215",
+            "title": "Kth Largest Element in an Array",
+            "titleSlug": "kth-largest-element-in-an-array",
+            "acRate": "66.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Quickselect",
+                    "slug": "quickselect"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "229",
+            "questionFrontendId": "229",
+            "title": "Majority Element II",
+            "titleSlug": "majority-element-ii",
+            "acRate": "51.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "236",
+            "questionFrontendId": "236",
+            "title": "Lowest Common Ancestor of a Binary Tree",
+            "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+            "acRate": "61.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "238",
+            "questionFrontendId": "238",
+            "title": "Product of Array Except Self",
+            "titleSlug": "product-of-array-except-self",
+            "acRate": "65.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "239",
+            "questionFrontendId": "239",
+            "title": "Sliding Window Maximum",
+            "titleSlug": "sliding-window-maximum",
+            "acRate": "46.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "240",
+            "questionFrontendId": "240",
+            "title": "Search a 2D Matrix II",
+            "titleSlug": "search-a-2d-matrix-ii",
+            "acRate": "52.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "241",
+            "questionFrontendId": "241",
+            "title": "Different Ways to Add Parentheses",
+            "titleSlug": "different-ways-to-add-parentheses",
+            "acRate": "65.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "253",
+            "questionFrontendId": "253",
+            "title": "Meeting Rooms II",
+            "titleSlug": "meeting-rooms-ii",
+            "acRate": "51.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "261",
+            "questionFrontendId": "261",
+            "title": "Graph Valid Tree",
+            "titleSlug": "graph-valid-tree",
+            "acRate": "47.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "278",
+            "questionFrontendId": "278",
+            "title": "First Bad Version",
+            "titleSlug": "first-bad-version",
+            "acRate": "44.2%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Interactive",
+                    "slug": "interactive"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "297",
+            "questionFrontendId": "297",
+            "title": "Serialize and Deserialize Binary Tree",
+            "titleSlug": "serialize-and-deserialize-binary-tree",
+            "acRate": "56.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "316",
+            "questionFrontendId": "316",
+            "title": "Remove Duplicate Letters",
+            "titleSlug": "remove-duplicate-letters",
+            "acRate": "49.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "339",
+            "questionFrontendId": "339",
+            "title": "Nested List Weight Sum",
+            "titleSlug": "nested-list-weight-sum",
+            "acRate": "83.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "347",
+            "questionFrontendId": "347",
+            "title": "Top K Frequent Elements",
+            "titleSlug": "top-k-frequent-elements",
+            "acRate": "62.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Bucket Sort",
+                    "slug": "bucket-sort"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                },
+                {
+                    "name": "Quickselect",
+                    "slug": "quickselect"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "354",
+            "questionFrontendId": "354",
+            "title": "Russian Doll Envelopes",
+            "titleSlug": "russian-doll-envelopes",
+            "acRate": "37.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "378",
+            "questionFrontendId": "378",
+            "title": "Kth Smallest Element in a Sorted Matrix",
+            "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+            "acRate": "62.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "380",
+            "questionFrontendId": "380",
+            "title": "Insert Delete GetRandom O(1)",
+            "titleSlug": "insert-delete-getrandom-o1",
+            "acRate": "54.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Randomized",
+                    "slug": "randomized"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "392",
+            "questionFrontendId": "392",
+            "title": "Is Subsequence",
+            "titleSlug": "is-subsequence",
+            "acRate": "47.9%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "394",
+            "questionFrontendId": "394",
+            "title": "Decode String",
+            "titleSlug": "decode-string",
+            "acRate": "59.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "410",
+            "questionFrontendId": "410",
+            "title": "Split Array Largest Sum",
+            "titleSlug": "split-array-largest-sum",
+            "acRate": "55.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "423",
+            "questionFrontendId": "423",
+            "title": "Reconstruct Original Digits from English",
+            "titleSlug": "reconstruct-original-digits-from-english",
+            "acRate": "51.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "435",
+            "questionFrontendId": "435",
+            "title": "Non-overlapping Intervals",
+            "titleSlug": "non-overlapping-intervals",
+            "acRate": "52.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "456",
+            "questionFrontendId": "456",
+            "title": "132 Pattern",
+            "titleSlug": "132-pattern",
+            "acRate": "33.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "459",
+            "questionFrontendId": "459",
+            "title": "Repeated Substring Pattern",
+            "titleSlug": "repeated-substring-pattern",
+            "acRate": "46.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "String Matching",
+                    "slug": "string-matching"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "460",
+            "questionFrontendId": "460",
+            "title": "LFU Cache",
+            "titleSlug": "lfu-cache",
+            "acRate": "44.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "486",
+            "questionFrontendId": "486",
+            "title": "Predict the Winner",
+            "titleSlug": "predict-the-winner",
+            "acRate": "55.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Game Theory",
+                    "slug": "game-theory"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "502",
+            "questionFrontendId": "502",
+            "title": "IPO",
+            "titleSlug": "ipo",
+            "acRate": "49.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "526",
+            "questionFrontendId": "526",
+            "title": "Beautiful Arrangement",
+            "titleSlug": "beautiful-arrangement",
+            "acRate": "64.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "557",
+            "questionFrontendId": "557",
+            "title": "Reverse Words in a String III",
+            "titleSlug": "reverse-words-in-a-string-iii",
+            "acRate": "83.0%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "588",
+            "questionFrontendId": "588",
+            "title": "Design In-Memory File System",
+            "titleSlug": "design-in-memory-file-system",
+            "acRate": "48.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Trie",
+                    "slug": "trie"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "621",
+            "questionFrontendId": "621",
+            "title": "Task Scheduler",
+            "titleSlug": "task-scheduler",
+            "acRate": "58.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "628",
+            "questionFrontendId": "628",
+            "title": "Maximum Product of Three Numbers",
+            "titleSlug": "maximum-product-of-three-numbers",
+            "acRate": "45.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "691",
+            "questionFrontendId": "691",
+            "title": "Stickers to Spell Word",
+            "titleSlug": "stickers-to-spell-word",
+            "acRate": "48.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "695",
+            "questionFrontendId": "695",
+            "title": "Max Area of Island",
+            "titleSlug": "max-area-of-island",
+            "acRate": "71.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "697",
+            "questionFrontendId": "697",
+            "title": "Degree of an Array",
+            "titleSlug": "degree-of-an-array",
+            "acRate": "56.4%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "735",
+            "questionFrontendId": "735",
+            "title": "Asteroid Collision",
+            "titleSlug": "asteroid-collision",
+            "acRate": "44.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "739",
+            "questionFrontendId": "739",
+            "title": "Daily Temperatures",
+            "titleSlug": "daily-temperatures",
+            "acRate": "66.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "808",
+            "questionFrontendId": "792",
+            "title": "Number of Matching Subsequences",
+            "titleSlug": "number-of-matching-subsequences",
+            "acRate": "51.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Trie",
+                    "slug": "trie"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "896",
+            "questionFrontendId": "865",
+            "title": "Smallest Subtree with all the Deepest Nodes",
+            "titleSlug": "smallest-subtree-with-all-the-deepest-nodes",
+            "acRate": "70.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "907",
+            "questionFrontendId": "875",
+            "title": "Koko Eating Bananas",
+            "titleSlug": "koko-eating-bananas",
+            "acRate": "49.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "917",
+            "questionFrontendId": "881",
+            "title": "Boats to Save People",
+            "titleSlug": "boats-to-save-people",
+            "acRate": "56.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "931",
+            "questionFrontendId": "895",
+            "title": "Maximum Frequency Stack",
+            "titleSlug": "maximum-frequency-stack",
+            "acRate": "66.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1036",
+            "questionFrontendId": "994",
+            "title": "Rotting Oranges",
+            "titleSlug": "rotting-oranges",
+            "acRate": "53.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1055",
+            "questionFrontendId": "1010",
+            "title": "Pairs of Songs With Total Durations Divisible by 60",
+            "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+            "acRate": "52.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1056",
+            "questionFrontendId": "1011",
+            "title": "Capacity To Ship Packages Within D Days",
+            "titleSlug": "capacity-to-ship-packages-within-d-days",
+            "acRate": "69.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1097",
+            "questionFrontendId": "1032",
+            "title": "Stream of Characters",
+            "titleSlug": "stream-of-characters",
+            "acRate": "51.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Trie",
+                    "slug": "trie"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1102",
+            "questionFrontendId": "1150",
+            "title": "Check If a Number Is Majority Element in a Sorted Array",
+            "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+            "acRate": "58.7%",
+            "difficulty": "Easy",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1127",
+            "questionFrontendId": "1046",
+            "title": "Last Stone Weight",
+            "titleSlug": "last-stone-weight",
+            "acRate": "65.3%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1128",
+            "questionFrontendId": "1047",
+            "title": "Remove All Adjacent Duplicates In String",
+            "titleSlug": "remove-all-adjacent-duplicates-in-string",
+            "acRate": "69.3%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1137",
+            "questionFrontendId": "1051",
+            "title": "Height Checker",
+            "titleSlug": "height-checker",
+            "acRate": "76.4%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Counting Sort",
+                    "slug": "counting-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1306",
+            "questionFrontendId": "1200",
+            "title": "Minimum Absolute Difference",
+            "titleSlug": "minimum-absolute-difference",
+            "acRate": "69.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1320",
+            "questionFrontendId": "1209",
+            "title": "Remove All Adjacent Duplicates in String II",
+            "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+            "acRate": "57.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1397",
+            "questionFrontendId": "1268",
+            "title": "Search Suggestions System",
+            "titleSlug": "search-suggestions-system",
+            "acRate": "65.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Trie",
+                    "slug": "trie"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1451",
+            "questionFrontendId": "1326",
+            "title": "Minimum Number of Taps to Open to Water a Garden",
+            "titleSlug": "minimum-number-of-taps-to-open-to-water-a-garden",
+            "acRate": "51.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1544",
+            "questionFrontendId": "1448",
+            "title": "Count Good Nodes in Binary Tree",
+            "titleSlug": "count-good-nodes-in-binary-tree",
+            "acRate": "73.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1561",
+            "questionFrontendId": "1451",
+            "title": "Rearrange Words in a Sentence",
+            "titleSlug": "rearrange-words-in-a-sentence",
+            "acRate": "64.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "1585",
+            "questionFrontendId": "1492",
+            "title": "The kth Factor of n",
+            "titleSlug": "the-kth-factor-of-n",
+            "acRate": "66.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Number Theory",
+                    "slug": "number-theory"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1778",
+            "questionFrontendId": "1659",
+            "title": "Maximize Grid Happiness",
+            "titleSlug": "maximize-grid-happiness",
+            "acRate": "39.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1803",
+            "questionFrontendId": "1701",
+            "title": "Average Waiting Time",
+            "titleSlug": "average-waiting-time",
+            "acRate": "63.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "2144",
+            "questionFrontendId": "2016",
+            "title": "Maximum Difference Between Increasing Elements",
+            "titleSlug": "maximum-difference-between-increasing-elements",
+            "acRate": "55.8%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "notac",
+            "questionId": "2162",
+            "questionFrontendId": "2035",
+            "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+            "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+            "acRate": "20.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "ac",
+            "questionId": "2177",
+            "questionFrontendId": "2068",
+            "title": "Check Whether Two Strings are Almost Equivalent",
+            "titleSlug": "check-whether-two-strings-are-almost-equivalent",
+            "acRate": "63.7%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2389",
+            "questionFrontendId": "2296",
+            "title": "Design a Text Editor",
+            "titleSlug": "design-a-text-editor",
+            "acRate": "43.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2699",
+            "questionFrontendId": "2563",
+            "title": "Count the Number of Fair Pairs",
+            "titleSlug": "count-the-number-of-fair-pairs",
+            "acRate": "32.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3113",
+            "questionFrontendId": "2866",
+            "title": "Beautiful Towers II",
+            "titleSlug": "beautiful-towers-ii",
+            "acRate": "34.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3114",
+            "questionFrontendId": "2865",
+            "title": "Beautiful Towers I",
+            "titleSlug": "beautiful-towers-i",
+            "acRate": "43.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3215",
+            "questionFrontendId": "2946",
+            "title": "Matrix Similarity After Cyclic Shifts",
+            "titleSlug": "matrix-similarity-after-cyclic-shifts",
+            "acRate": "57.2%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3230",
+            "questionFrontendId": "2957",
+            "title": "Remove Adjacent Almost-Equal Characters",
+            "titleSlug": "remove-adjacent-almost-equal-characters",
+            "acRate": "51.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3294",
+            "questionFrontendId": "2992",
+            "title": "Number of Self-Divisible Permutations",
+            "titleSlug": "number-of-self-divisible-permutations",
+            "acRate": "76.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        }
+    ],
+    "frequencies": "{\"215\": [1, 3, 3, 15, 0, 0.04611472781539615, 0.04611472781539615, 0.7792623336522183, 2], \"49\": [5, 5, 6, 21, 0.08796103013128909, 0.08796103013128909, 0.12434070329202965, 0.9639068064851577, 1], \"15\": [0, 0, 3, 23, 0, 0, 0.02155255838573421, 0.8244217316519031, 3], \"98\": [1, 1, 3, 12, 0, 0, 0.04587960575069364, 0.5602862539343905, 3], \"46\": [0, 1, 2, 8, 0, 0, 0.025237932589862646, 0.34284168490669276, 3], \"146\": [3, 4, 7, 71, 0.06426193421836912, 0.11153609770197609, 0.3084819465624566, 3.6295010171282627, 1], \"179\": [3, 4, 6, 19, 0.21357410029805904, 0.3529643645421967, 0.6690496289808848, 2.356150935462141, 1], \"210\": [2, 2, 4, 13, 0.052436651273043935, 0.052436651273043935, 0.19502650869922625, 1.1861842980657635, 1], \"380\": [1, 1, 2, 9, 0, 0, 0.06222847139840936, 0.8329789090407187, 3], \"91\": [2, 3, 5, 15, 0.05667238709891086, 0.12327489245733352, 0.3107378487517068, 1.453925762008521, 1], \"261\": [3, 3, 3, 5, 0.401795379219202, 0.401795379219202, 0.401795379219202, 0.8644189011673149, 1], \"12\": [4, 4, 4, 10, 0.11743683520286506, 0.11743683520286506, 0.11743683520286506, 0.5759480865259944, 1], \"53\": [0, 1, 2, 12, 0, 0, 0.012783811042270835, 0.3806062975112503, 3], \"75\": [0, 1, 2, 8, 0, 0, 0.01875347974830633, 0.2645824875265506, 3], \"347\": [2, 2, 3, 10, 0.01786559353540935, 0.01786559353540935, 0.03975788642190144, 0.37201410836621424, 1], \"3\": [3, 4, 7, 19, 0.016529301951210565, 0.029199154692262308, 0.08685704409326664, 0.5119361180500178, 1], \"105\": [2, 2, 2, 11, 0.03964840421133749, 0.03964840421133749, 0.03964840421133749, 0.7990636589320491, 1], \"205\": [1, 1, 2, 8, 0, 0, 0.028013036227673965, 0.3746934494414107, 3], \"236\": [1, 1, 2, 14, 0, 0, 0.03025949476311255, 0.9184389604124447, 3], \"297\": [0, 1, 2, 9, 0, 0, 0.08682239465891518, 1.042653635020065, 3], \"394\": [0, 1, 3, 9, 0, 0, 0.13825661970102562, 0.8477684486311822, 3], \"460\": [1, 1, 2, 20, 0, 0, 0.25452986513488046, 3.391444358793007, 3], \"5\": [1, 2, 4, 17, 0, 0.013821920116179907, 0.05417709326950732, 0.6959268904804425, 2], \"33\": [2, 2, 5, 16, 0.014754970746799198, 0.014754970746799198, 0.08883678782708922, 0.6685056629109535, 1], \"55\": [1, 1, 2, 12, 0, 0, 0.01691372244206185, 0.4787604849911694, 3], \"56\": [1, 1, 10, 88, 0, 0, 0.4105284100647111, 3.6838974057001477, 3], \"200\": [3, 3, 4, 35, 0.04900272661044917, 0.04900272661044917, 0.08552217343816201, 2.0587205240423185, 1], \"931\": [1, 1, 1, 8, 0, 0, 0, 2.5199979695992702, 4], \"139\": [1, 21, 22, 35, 0, 1.5799874959270017, 1.411232354799022, 2.460275952530252, 2], \"23\": [1, 1, 2, 15, 0, 0, 0.02654435875847736, 0.9215224830253288, 3], \"42\": [2, 2, 4, 16, 0.021402636114384706, 0.021402636114384706, 0.08299213342780958, 0.8690029539708128, 1], \"207\": [1, 1, 2, 9, 0, 0, 0.030653741091002412, 0.4887948350269179, 3], \"22\": [1, 1, 2, 15, 0, 0, 0.0215874546043835, 0.8008780434798707, 3], \"121\": [2, 3, 5, 20, 0.007374664691267215, 0.0165171675751297, 0.045223839173446176, 0.5539957105798706, 1], \"20\": [3, 8, 9, 30, 0.016556669594447675, 0.11218193799931804, 0.13997967289820923, 0.9818721147185049, 1], \"1102\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"1137\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"240\": [1, 1, 2, 8, 0, 0, 0.06402185876493102, 0.7216623508679665, 3], \"238\": [0, 0, 2, 10, 0, 0, 0.012650390082165711, 0.276319223139963, 3], \"41\": [0, 1, 3, 12, 0, 0, 0.07990051073053109, 0.846241057118438, 3], \"253\": [1, 2, 3, 11, 0, 0.08974628785627545, 0.1916674192121923, 1.3455701708933219, 2], \"103\": [0, 0, 2, 6, 0, 0, 0.03490755821080199, 0.27741641657806876, 3], \"9\": [1, 1, 2, 4, 0, 0, 0.007630712341163886, 0.030179582027776965, 3], \"114\": [0, 0, 3, 4, 0, 0, 0.12819804664916004, 0.21765740527742986, 3], \"199\": [1, 1, 3, 4, 0, 0, 0.05289129270749365, 0.09217805096960827, 3], \"241\": [0, 2, 2, 9, 0, 0.4321333551903257, 0.4321333551903257, 2.4803919694334735, 2], \"45\": [0, 0, 2, 5, 0, 0, 0.02361384810830447, 0.13919038017623117, 3], \"557\": [2, 2, 2, 5, 0.11778303565638346, 0.11778303565638346, 0.11778303565638346, 0.5773153650348236, 1], \"120\": [1, 2, 3, 5, 0, 0.06887402901251127, 0.14878873668587292, 0.3685471485927166, 2], \"278\": [1, 1, 2, 7, 0, 0, 0.050261834780888255, 0.4894650825209027, 3], \"588\": [2, 2, 5, 16, 0.5623075796011341, 0.5623075796011341, 1.5001148990416993, 3.885268995511416, 1], \"1036\": [1, 1, 4, 10, 0, 0, 0.16989903679539747, 0.7689072264414809, 3], \"173\": [0, 0, 2, 7, 0, 0, 0.08894748601649616, 0.7605884613554779, 3], \"502\": [1, 3, 8, 9, 0, 0.5138062519041285, 1.5104060807232678, 1.9522863661945893, 2], \"695\": [2, 3, 3, 7, 0.07302513501488987, 0.15739217375142928, 0.15739217375142928, 0.6564989134042065, 1], \"1778\": [0, 0, 0, 3, 0, 0, 0, 2.302585092994046, 4], \"739\": [1, 1, 3, 6, 0, 0, 0.08040042543803777, 0.2888441876319583, 3], \"1803\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"354\": [0, 1, 3, 5, 0, 0, 0.25708853309999324, 0.5957174923400869, 3], \"917\": [0, 0, 2, 7, 0, 0, 0.2664662333015083, 1.5561337587323272, 3], \"459\": [1, 1, 2, 11, 0, 0, 0.09958470542943662, 1.4273257577977532, 3], \"39\": [2, 2, 2, 7, 0.02511117506693104, 0.02511117506693104, 0.02511117506693104, 0.271176610012974, 1], \"133\": [1, 1, 2, 7, 0, 0, 0.039965358599302475, 0.40512526103607444, 3], \"628\": [1, 1, 6, 12, 0, 0, 0.7921114448199128, 1.763396819319933, 3], \"116\": [2, 3, 3, 5, 0.08303522860999034, 0.17798315519535646, 0.17798315519535646, 0.4325130203302369, 1], \"410\": [0, 6, 6, 13, 0, 0.7221347174331976, 0.7221347174331976, 1.786845454425626, 2], \"239\": [1, 1, 3, 11, 0, 0, 0.09342889799792191, 0.8401215425377924, 3], \"621\": [2, 2, 2, 6, 0.08252102368800351, 0.08252102368800351, 0.08252102368800351, 0.5733459807473247, 1], \"1055\": [0, 2, 4, 9, 0, 0.30774963550259016, 0.8925886195673667, 2.115929834942973, 2], \"1306\": [1, 1, 2, 6, 0, 0, 0.3452699473247421, 1.5499724123908218, 3], \"1451\": [2, 4, 5, 10, 0.49159426183810306, 1.264037045068586, 1.3597424712330726, 2.825715651950415, 1], \"526\": [3, 6, 6, 10, 1.042653635020065, 2.1218948579321752, 1.8785688650166272, 3.0637723102856707, 1], \"1128\": [0, 0, 2, 3, 0, 0, 0.08626034428440695, 0.1845712765279701, 3], \"2177\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"14\": [0, 2, 2, 4, 0, 0.010333339169644682, 0.010333339169644682, 0.04070773195514398, 2], \"697\": [3, 3, 4, 7, 0.48550781578170077, 0.48550781578170077, 0.7472144018302211, 1.4822356548612252, 1], \"44\": [1, 2, 2, 3, 0, 0.07988277164760574, 0.07988277164760574, 0.17152193955024905, 2], \"735\": [2, 5, 6, 12, 0.050135812424355455, 0.2786439218367188, 0.38030109050788463, 1.0476346437319208, 1], \"1056\": [0, 5, 5, 7, 0, 0.41502149482838246, 0.41502149482838246, 0.6972539625125987, 2], \"1127\": [0, 0, 2, 3, 0, 0, 0.08151149618728668, 0.17486281150627858, 3], \"1544\": [0, 0, 2, 2, 0, 0, 0.06261826181791112, 0.06261826181791112, 3], \"1561\": [1, 1, 2, 2, 0, 0, 0.7621400520468967, 0.7621400520468967, 3], \"316\": [0, 0, 2, 2, 0, 0, 0.16989903679539747, 0.16989903679539747, 3], \"124\": [2, 2, 3, 6, 0.0377047490242394, 0.0377047490242394, 0.08292040750115158, 0.29700447772203814, 1], \"1320\": [0, 0, 2, 4, 0, 0, 0.14897379164772453, 0.4962622595780941, 3], \"456\": [1, 1, 2, 4, 0, 0, 0.15656906069153992, 0.5175824062288705, 3], \"691\": [0, 0, 7, 10, 0, 0, 1.2607514038607261, 2.097141118779237, 3], \"423\": [0, 2, 6, 9, 0, 0.705886206337375, 2.082073777844669, 3.080497540181701, 2], \"84\": [0, 0, 3, 8, 0, 0, 0.09313862629081703, 0.5271771068430374, 3], \"907\": [0, 0, 4, 6, 0, 0, 0.13522678720976744, 0.2820099074993145, 3], \"435\": [0, 0, 2, 3, 0, 0, 0.07032774214205609, 0.15180601286800416, 3], \"339\": [0, 0, 2, 2, 0, 0, 0.13720112151348504, 0.13720112151348504, 3], \"2699\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"392\": [1, 3, 3, 4, 0, 0.04717856027509048, 0.04717856027509048, 0.08239346656615701, 2], \"2144\": [2, 3, 3, 3, 0.2776317365982795, 0.5423242908253616, 0.5423242908253616, 0.5423242908253616, 1], \"486\": [0, 2, 2, 2, 0, 0.16098937604759944, 0.16098937604759944, 0.16098937604759944, 2], \"1397\": [17, 18, 18, 23, 2.3668425494567855, 2.5390416236259252, 2.4464796884441244, 3.1533877004577517, 1], \"2162\": [1, 2, 2, 2, 0, 0.41836851294407224, 0.41836851294407224, 0.41836851294407224, 2], \"3113\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"3114\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"378\": [3, 3, 3, 3, 0.2265276492984503, 0.2265276492984503, 0.2265276492984503, 0.2265276492984503, 1], \"1097\": [2, 2, 2, 2, 0.8873031950009028, 0.8873031950009028, 0.8873031950009028, 0.8873031950009028, 1], \"169\": [2, 2, 2, 4, 0.010672459890771873, 0.010672459890771873, 0.010672459890771873, 0.04202298977484789, 1], \"229\": [2, 2, 2, 2, 0.04180336980436055, 0.04180336980436055, 0.04180336980436055, 0.04180336980436055, 1], \"115\": [2, 2, 2, 3, 0.1330864537962701, 0.1330864537962701, 0.1330864537962701, 0.2778473932736894, 1], \"1585\": [3, 3, 3, 5, 0.22767870647960103, 0.22767870647960103, 0.22767870647960103, 0.5366262697107239, 1], \"808\": [2, 2, 2, 3, 0.3856624808119847, 0.3856624808119847, 0.3856624808119847, 0.7221347174331976, 1], \"896\": [3, 3, 3, 3, 0.6418538861723948, 0.6418538861723948, 0.6418538861723948, 0.6418538861723948, 1], \"3215\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"3230\": [0, 0, 0, 0, 0, 0, 0, 0, 4], \"2389\": [3, 3, 3, 5, 1.7047480922384253, 1.7047480922384253, 1.4614220993228773, 2.6026896854443837, 1], \"3294\": [0, 0, 0, 0, 0, 0, 0, 0, 4]}"
+}

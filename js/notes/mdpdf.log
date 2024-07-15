@@ -1,0 +1,283 @@
+    INFO: 2024-07-08 21:32:24,648:               log.py:   20: Logging to D:\projects\prep\js\notes\mdpdf.log
+   DEBUG: 2024-07-08 21:32:24,648:               cli.py:  103: Object.md
+    INFO: 2024-07-08 21:32:24,659:         converter.py:   14: Object.md
+   DEBUG: 2024-07-08 21:32:24,673:      pdf_renderer.py:  470: printSegment: JavaScript Object Types
+   DEBUG: 2024-07-08 21:32:24,689:      pdf_renderer.py:  470: printSegment: JavaScript has a variety of object types, each serving different purposes and functionalities. Here
+   DEBUG: 2024-07-08 21:32:24,702:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-07-08 21:32:24,705:      pdf_renderer.py:  470: printSegment: s an overview of
+   DEBUG: 2024-07-08 21:32:24,705:      pdf_renderer.py:  470: printSegment: the different types of objects in JavaScript:
+   DEBUG: 2024-07-08 21:32:24,713:      pdf_renderer.py:  470: printSegment: // 1. Plain Objects
+   DEBUG: 2024-07-08 21:32:24,713:      pdf_renderer.py:  470: printSegment: let obj = { key: 'value', method: function() { return 'hello'; } };
+   DEBUG: 2024-07-08 21:32:24,713:      pdf_renderer.py:  470: printSegment: let anotherObj = new Object();
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: anotherObj.key = 'value';
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: anotherObj.method = function() { return 'hello'; };
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: // 2. Arrays
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: let arr = [1, 2, 3, 'four', { key: 'value' }];
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: // 3. Functions
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: function myFunction() {
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment:     return 'hello';
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: }
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: let anotherFunction = function() {
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment:     return 'world';
+   DEBUG: 2024-07-08 21:32:24,721:      pdf_renderer.py:  470: printSegment: };
+   DEBUG: 2024-07-08 21:32:24,729:      pdf_renderer.py:  470: printSegment: // 4. Date Objects
+   DEBUG: 2024-07-08 21:32:24,729:      pdf_renderer.py:  470: printSegment: let date = new Date();
+   DEBUG: 2024-07-08 21:32:24,729:      pdf_renderer.py:  470: printSegment: // 5. RegExp Objects
+   DEBUG: 2024-07-08 21:32:24,729:      pdf_renderer.py:  470: printSegment: let regex = /hello/i;
+   DEBUG: 2024-07-08 21:32:24,729:      pdf_renderer.py:  470: printSegment: // 6. Math Objects
+   DEBUG: 2024-07-08 21:32:24,735:      pdf_renderer.py:  470: printSegment: let randomNum = Math.random();
+   DEBUG: 2024-07-08 21:32:24,738:      pdf_renderer.py:  470: printSegment: let pi = Math.PI;
+   DEBUG: 2024-07-08 21:32:24,738:      pdf_renderer.py:  470: printSegment: // 7. JSON Objects
+   DEBUG: 2024-07-08 21:32:24,738:      pdf_renderer.py:  470: printSegment: let jsonString = '{"name": "John", "age": 30}';
+   DEBUG: 2024-07-08 21:32:24,738:      pdf_renderer.py:  470: printSegment: let jsonObj = JSON.parse(jsonString);
+   DEBUG: 2024-07-08 21:32:24,738:      pdf_renderer.py:  470: printSegment: let backToString = JSON.stringify(jsonObj);
+   DEBUG: 2024-07-08 21:32:24,738:      pdf_renderer.py:  470: printSegment: // 8. Error Objects
+   DEBUG: 2024-07-08 21:32:24,746:      pdf_renderer.py:  470: printSegment: let error = new Error('Something went wrong');
+   DEBUG: 2024-07-08 21:32:24,746:      pdf_renderer.py:  470: printSegment: // 9. Promise Objects
+   DEBUG: 2024-07-08 21:32:24,746:      pdf_renderer.py:  470: printSegment: let promise = new Promise((resolve, reject) => {
+   DEBUG: 2024-07-08 21:32:24,746:      pdf_renderer.py:  470: printSegment:     // some async operation
+   DEBUG: 2024-07-08 21:32:24,746:      pdf_renderer.py:  470: printSegment:     let successful = true; // example success condition
+   DEBUG: 2024-07-08 21:32:24,754:      pdf_renderer.py:  470: printSegment:     if (successful) {
+   DEBUG: 2024-07-08 21:32:24,756:      pdf_renderer.py:  470: printSegment:         resolve('Success!');
+   DEBUG: 2024-07-08 21:32:24,756:      pdf_renderer.py:  470: printSegment:     } else {
+   DEBUG: 2024-07-08 21:32:24,756:      pdf_renderer.py:  470: printSegment:         reject('Failure.');
+   DEBUG: 2024-07-08 21:32:24,756:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:24,756:      pdf_renderer.py:  470: printSegment: });
+   DEBUG: 2024-07-08 21:32:24,756:      pdf_renderer.py:  470: printSegment: // 10. Map Objects
+   DEBUG: 2024-07-08 21:32:24,762:      pdf_renderer.py:  470: printSegment: let map = new Map();
+   DEBUG: 2024-07-08 21:32:24,763:      pdf_renderer.py:  470: printSegment: map.set('key1', 'value1');
+   DEBUG: 2024-07-08 21:32:24,763:      pdf_renderer.py:  470: printSegment: map.set('key2', 'value2');
+   DEBUG: 2024-07-08 21:32:24,763:      pdf_renderer.py:  470: printSegment: // 11. Set Objects
+   DEBUG: 2024-07-08 21:32:24,763:      pdf_renderer.py:  470: printSegment: let set = new Set();
+   DEBUG: 2024-07-08 21:32:24,763:      pdf_renderer.py:  470: printSegment: set.add(1);
+   DEBUG: 2024-07-08 21:32:24,763:      pdf_renderer.py:  470: printSegment: set.add(2);
+   DEBUG: 2024-07-08 21:32:24,770:      pdf_renderer.py:  470: printSegment: set.add(1); // duplicates are not added
+   DEBUG: 2024-07-08 21:32:24,771:      pdf_renderer.py:  470: printSegment: // 12. WeakMap Objects
+   DEBUG: 2024-07-08 21:32:24,772:      pdf_renderer.py:  470: printSegment: let weakMap = new WeakMap();
+   DEBUG: 2024-07-08 21:32:24,772:      pdf_renderer.py:  470: printSegment: let objKey = {};
+   DEBUG: 2024-07-08 21:32:24,772:      pdf_renderer.py:  470: printSegment: weakMap.set(objKey, 'value');
+   DEBUG: 2024-07-08 21:32:24,772:      pdf_renderer.py:  470: printSegment: // 13. WeakSet Objects
+   DEBUG: 2024-07-08 21:32:24,777:      pdf_renderer.py:  470: printSegment: let weakSet = new WeakSet();
+   DEBUG: 2024-07-08 21:32:24,777:      pdf_renderer.py:  470: printSegment: let objValue = {};
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: weakSet.add(objValue);
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: // 14. Symbol Objects
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: let sym = Symbol('description');
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: let objWithSym = {
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment:     [sym]: 'value'
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: };
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: // 15. Typed Arrays
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: let buffer = new ArrayBuffer(16);
+   DEBUG: 2024-07-08 21:32:24,779:      pdf_renderer.py:  470: printSegment: let int32View = new Int32Array(buffer);
+   DEBUG: 2024-07-08 21:32:24,787:      pdf_renderer.py:  470: printSegment: // 16. BigInt Objects
+   DEBUG: 2024-07-08 21:32:24,788:      pdf_renderer.py:  470: printSegment: let bigInt = BigInt(1234567890123456789012345678901234567890);
+   DEBUG: 2024-07-08 21:32:24,789:      pdf_renderer.py:  470: printSegment: typeof Operator
+   DEBUG: 2024-07-08 21:32:24,789:      pdf_renderer.py:  470: printSegment: You can use the 
+   DEBUG: 2024-07-08 21:32:24,792:      pdf_renderer.py:  470: printSegment: typeof
+   DEBUG: 2024-07-08 21:32:24,792:      pdf_renderer.py:  470: printSegment:  operator to determine the type of an object. Here
+   DEBUG: 2024-07-08 21:32:24,795:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-07-08 21:32:24,795:      pdf_renderer.py:  470: printSegment: s how you can use it:
+   DEBUG: 2024-07-08 21:32:24,795:      pdf_renderer.py:  470: printSegment: let obj = { key: 'value' };
+   DEBUG: 2024-07-08 21:32:24,795:      pdf_renderer.py:  470: printSegment: let arr = [1, 2, 3];
+   DEBUG: 2024-07-08 21:32:24,795:      pdf_renderer.py:  470: printSegment: let func = function() { return 'hello'; };
+   DEBUG: 2024-07-08 21:32:24,795:      pdf_renderer.py:  470: printSegment: console.log(typeof obj); // object
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: console.log(typeof arr); // object
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: console.log(typeof func); // function
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: we can also use 
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: typeof
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment:  operator to check primitive types:
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: let str = 'hello';
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: let num = 42;
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: let bool = true;
+   DEBUG: 2024-07-08 21:32:24,802:      pdf_renderer.py:  470: printSegment: let nullValue = null;
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: console.log(typeof str); // string
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: console.log(typeof num); // number
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: console.log(typeof bool); // boolean
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: console.log(typeof nullValue); // object
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: instanceof Operator
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: You can use the 
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: instanceof
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment:  operator to check if an object is an instance of a particular type. Here
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-07-08 21:32:24,811:      pdf_renderer.py:  470: printSegment: s how you can
+   DEBUG: 2024-07-08 21:32:24,819:      pdf_renderer.py:  470: printSegment: use it:
+   DEBUG: 2024-07-08 21:32:24,819:      pdf_renderer.py:  470: printSegment: let obj = { key: 'value' };
+   DEBUG: 2024-07-08 21:32:24,819:      pdf_renderer.py:  470: printSegment: let arr = [1, 2, 3];
+   DEBUG: 2024-07-08 21:32:24,819:      pdf_renderer.py:  470: printSegment: let func = function() { return 'hello'; };
+   DEBUG: 2024-07-08 21:32:24,819:      pdf_renderer.py:  470: printSegment: let date = new Date();
+   DEBUG: 2024-07-08 21:32:24,819:      pdf_renderer.py:  470: printSegment: console.log(obj instanceof Object); // true
+   DEBUG: 2024-07-08 21:32:24,827:      pdf_renderer.py:  470: printSegment: console.log(arr instanceof Array); // true
+   DEBUG: 2024-07-08 21:32:24,827:      pdf_renderer.py:  470: printSegment: console.log(func instanceof Function); // true
+   DEBUG: 2024-07-08 21:32:24,827:      pdf_renderer.py:  470: printSegment: console.log(date instanceof Date); // true
+   DEBUG: 2024-07-08 21:32:24,827:      pdf_renderer.py:  470: printSegment: we can also use 
+   DEBUG: 2024-07-08 21:32:24,827:      pdf_renderer.py:  470: printSegment: instanceof
+   DEBUG: 2024-07-08 21:32:24,827:      pdf_renderer.py:  470: printSegment:  operator to check if an object is an instance of a class:
+   DEBUG: 2024-07-08 21:32:24,827:      pdf_renderer.py:  470: printSegment: class Person {
+   DEBUG: 2024-07-08 21:32:24,836:      pdf_renderer.py:  470: printSegment:     constructor(name) {
+   DEBUG: 2024-07-08 21:32:24,836:      pdf_renderer.py:  470: printSegment:         this.name = name;
+   DEBUG: 2024-07-08 21:32:24,836:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:24,836:      pdf_renderer.py:  470: printSegment: }
+   DEBUG: 2024-07-08 21:32:24,836:      pdf_renderer.py:  470: printSegment: let person = new Person('John');
+   DEBUG: 2024-07-08 21:32:24,836:      pdf_renderer.py:  470: printSegment: console.log(person instanceof Person); // true
+   DEBUG: 2024-07-08 21:32:24,836:      pdf_renderer.py:  470: printSegment: we can also use primitive types with 
+   DEBUG: 2024-07-08 21:32:24,843:      pdf_renderer.py:  470: printSegment: instanceof
+   DEBUG: 2024-07-08 21:32:24,843:      pdf_renderer.py:  470: printSegment:  operator:
+   DEBUG: 2024-07-08 21:32:24,843:      pdf_renderer.py:  470: printSegment: let str = 'hello';
+   DEBUG: 2024-07-08 21:32:24,843:      pdf_renderer.py:  470: printSegment: let num = 42;
+   DEBUG: 2024-07-08 21:32:24,843:      pdf_renderer.py:  470: printSegment: let bool = true;
+   DEBUG: 2024-07-08 21:32:24,843:      pdf_renderer.py:  470: printSegment: let nullValue = null;
+   DEBUG: 2024-07-08 21:32:24,843:      pdf_renderer.py:  470: printSegment: console.log(str instanceof String); // false
+   DEBUG: 2024-07-08 21:32:24,851:      pdf_renderer.py:  470: printSegment: console.log(num instanceof Number); // false
+   DEBUG: 2024-07-08 21:32:24,851:      pdf_renderer.py:  470: printSegment: console.log(bool instanceof Boolean); // false
+   DEBUG: 2024-07-08 21:32:24,851:      pdf_renderer.py:  470: printSegment: console.log(nullValue instanceof Object); // false
+   DEBUG: 2024-07-08 21:32:24,851:      pdf_renderer.py:  470: printSegment: let strObj = new String('hello');
+   DEBUG: 2024-07-08 21:32:24,851:      pdf_renderer.py:  470: printSegment: let numObj = new Number(42);
+   DEBUG: 2024-07-08 21:32:24,859:      pdf_renderer.py:  470: printSegment: let boolObj = new Boolean(true);
+   DEBUG: 2024-07-08 21:32:24,859:      pdf_renderer.py:  470: printSegment: console.log(strObj instanceof String); // true
+   DEBUG: 2024-07-08 21:32:24,859:      pdf_renderer.py:  470: printSegment: console.log(numObj instanceof Number); // true
+   DEBUG: 2024-07-08 21:32:24,859:      pdf_renderer.py:  470: printSegment: console.log(boolObj instanceof Boolean); // true
+   DEBUG: 2024-07-08 21:32:24,859:      pdf_renderer.py:  470: printSegment: checkIfInstanceOf(obj, classFunction)
+   DEBUG: 2024-07-08 21:32:24,859:      pdf_renderer.py:  470: printSegment: function checkIfInstanceOf(obj, classFunction) {
+   DEBUG: 2024-07-08 21:32:24,867:      pdf_renderer.py:  470: printSegment:     if (obj === null || obj === undefined || typeof classFunction
+   DEBUG: 2024-07-08 21:32:24,867:      pdf_renderer.py:  470: printSegment: !== 'function') return false;
+   DEBUG: 2024-07-08 21:32:24,867:      pdf_renderer.py:  470: printSegment:     return Object(obj) instanceof classFunction;
+   DEBUG: 2024-07-08 21:32:24,875:      pdf_renderer.py:  470: printSegment: }
+   DEBUG: 2024-07-08 21:32:24,875:      pdf_renderer.py:  470: printSegment: Flatten Array with nested arrys inside it and given depth
+   DEBUG: 2024-07-08 21:32:24,875:      pdf_renderer.py:  470: printSegment: var flat = function (arr, n) {
+   DEBUG: 2024-07-08 21:32:24,875:      pdf_renderer.py:  470: printSegment:     if (n == 0) return arr;
+   DEBUG: 2024-07-08 21:32:24,883:      pdf_renderer.py:  470: printSegment:     let answer = [];
+   DEBUG: 2024-07-08 21:32:24,883:      pdf_renderer.py:  470: printSegment:     for (let i=0; i<arr.length; i++) {
+   DEBUG: 2024-07-08 21:32:24,891:      pdf_renderer.py:  470: printSegment:         if (n > 0 && Array.isArray(arr[i])) {
+   DEBUG: 2024-07-08 21:32:24,891:      pdf_renderer.py:  470: printSegment:             answer.push(...flat(arr[i], n-1));
+   DEBUG: 2024-07-08 21:32:24,891:      pdf_renderer.py:  470: printSegment:         } else {
+   DEBUG: 2024-07-08 21:32:24,891:      pdf_renderer.py:  470: printSegment:             answer.push(arr[i]);
+   DEBUG: 2024-07-08 21:32:24,899:      pdf_renderer.py:  470: printSegment:         }
+   DEBUG: 2024-07-08 21:32:24,902:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:24,902:      pdf_renderer.py:  470: printSegment:     return answer;
+   DEBUG: 2024-07-08 21:32:24,908:      pdf_renderer.py:  470: printSegment: };
+   DEBUG: 2024-07-08 21:32:24,908:      pdf_renderer.py:  470: printSegment: Input
+   DEBUG: 2024-07-08 21:32:24,908:      pdf_renderer.py:  470: printSegment: arr = [1, 2, 3, [4, 5, 6], [7, 8, [9, 10, 11], 12], [13, 14, 15]]
+   DEBUG: 2024-07-08 21:32:24,917:      pdf_renderer.py:  470: printSegment: n = 1
+   DEBUG: 2024-07-08 21:32:24,917:      pdf_renderer.py:  470: printSegment: Output
+   DEBUG: 2024-07-08 21:32:24,917:      pdf_renderer.py:  470: printSegment: [1, 2, 3, 4, 5, 6, 7, 8, [9, 10, 11], 12, 13, 14, 15]
+   DEBUG: 2024-07-08 21:32:24,917:      pdf_renderer.py:  470: printSegment: Deep Equals of two objects
+   DEBUG: 2024-07-08 21:32:24,924:      pdf_renderer.py:  470: printSegment: function areDeepEqual(o1, o2) {
+   DEBUG: 2024-07-08 21:32:24,924:      pdf_renderer.py:  470: printSegment:     if (o1 === null || typeof o1 !== 'object') return o1 === o2;
+   DEBUG: 2024-07-08 21:32:24,932:      pdf_renderer.py:  470: printSegment:     if (typeof o1 !== typeof o2) return false;
+   DEBUG: 2024-07-08 21:32:24,932:      pdf_renderer.py:  470: printSegment:     if (Array.isArray(o1) !== Array.isArray(o2)) return false;
+   DEBUG: 2024-07-08 21:32:24,932:      pdf_renderer.py:  470: printSegment:     if (Array.isArray(o1)) {
+   DEBUG: 2024-07-08 21:32:24,941:      pdf_renderer.py:  470: printSegment:         if (o1.length !== o2.length) return false;
+   DEBUG: 2024-07-08 21:32:24,941:      pdf_renderer.py:  470: printSegment:         for (let i=0; i<o1.length; i++) {
+   DEBUG: 2024-07-08 21:32:24,941:      pdf_renderer.py:  470: printSegment:             if (!areDeepEqual(o1[i], o2[i])) return false;
+   DEBUG: 2024-07-08 21:32:24,941:      pdf_renderer.py:  470: printSegment:         }
+   DEBUG: 2024-07-08 21:32:24,949:      pdf_renderer.py:  470: printSegment:         return true;
+   DEBUG: 2024-07-08 21:32:24,951:      pdf_renderer.py:  470: printSegment:     } else {
+   DEBUG: 2024-07-08 21:32:24,951:      pdf_renderer.py:  470: printSegment:         const keys1 = Object.keys(o1);
+   DEBUG: 2024-07-08 21:32:24,951:      pdf_renderer.py:  470: printSegment:         const keys2 = Object.keys(o2);
+   DEBUG: 2024-07-08 21:32:24,959:      pdf_renderer.py:  470: printSegment:         if (keys1.length !== keys2.length) return false;
+   DEBUG: 2024-07-08 21:32:24,959:      pdf_renderer.py:  470: printSegment:         for (let key of keys1) {
+   DEBUG: 2024-07-08 21:32:24,959:      pdf_renderer.py:  470: printSegment:             if (!areDeepEqual(o1[key], o2[key])) return false;
+   DEBUG: 2024-07-08 21:32:24,959:      pdf_renderer.py:  470: printSegment:         }
+   DEBUG: 2024-07-08 21:32:24,966:      pdf_renderer.py:  470: printSegment:         return true;
+   DEBUG: 2024-07-08 21:32:24,966:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:24,966:      pdf_renderer.py:  470: printSegment: }
+   DEBUG: 2024-07-08 21:32:24,966:      pdf_renderer.py:  470: printSegment: o1 = {"x":1,"y":2}, o2 = {"x":1,"y":2}
+   DEBUG: 2024-07-08 21:32:24,972:      pdf_renderer.py:  470: printSegment: console.log(areDeepEqual(o1, o2)); // true
+   DEBUG: 2024-07-08 21:32:24,974:      pdf_renderer.py:  470: printSegment: o1 = {"y":2,"x":1}, o2 = {"x":1,"y":2}
+   DEBUG: 2024-07-08 21:32:24,974:      pdf_renderer.py:  470: printSegment: console.log(areDeepEqual(o1, o2)); // true
+   DEBUG: 2024-07-08 21:32:24,974:      pdf_renderer.py:  470: printSegment: o1 = {"x":null,"L":[1,2,3]}, o2 = {"x":null,"L":["1","2","3"]}
+   DEBUG: 2024-07-08 21:32:24,974:      pdf_renderer.py:  470: printSegment: console.log(areDeepEqual(o1, o2)); // false
+   DEBUG: 2024-07-08 21:32:24,974:      pdf_renderer.py:  470: printSegment: Deep Filter of an object
+   DEBUG: 2024-07-08 21:32:24,974:      pdf_renderer.py:  470: printSegment: function deepFilter(obj, fn) {
+   DEBUG: 2024-07-08 21:32:24,983:      pdf_renderer.py:  470: printSegment:     const dfs = (data) => {
+   DEBUG: 2024-07-08 21:32:24,983:      pdf_renderer.py:  470: printSegment:         if (Array.isArray(data)) {
+   DEBUG: 2024-07-08 21:32:24,983:      pdf_renderer.py:  470: printSegment:             const res = data.map(dfs).filter(item => item !==
+   DEBUG: 2024-07-08 21:32:24,983:      pdf_renderer.py:  470: printSegment: undefined);
+   DEBUG: 2024-07-08 21:32:24,983:      pdf_renderer.py:  470: printSegment:             return res.length > 0 ? res :undefined;
+   DEBUG: 2024-07-08 21:32:24,992:      pdf_renderer.py:  470: printSegment:         }
+   DEBUG: 2024-07-08 21:32:24,992:      pdf_renderer.py:  470: printSegment:         if (typeof data === 'object' && data != null) {
+   DEBUG: 2024-07-08 21:32:24,992:      pdf_renderer.py:  470: printSegment:             const res = {}
+   DEBUG: 2024-07-08 21:32:24,992:      pdf_renderer.py:  470: printSegment:             for (const key in data) {
+   DEBUG: 2024-07-08 21:32:24,992:      pdf_renderer.py:  470: printSegment:                 if (data.hasOwnProperty(key)) {
+   DEBUG: 2024-07-08 21:32:25,000:      pdf_renderer.py:  470: printSegment:                     const filteredValue = dfs(data[key]);
+   DEBUG: 2024-07-08 21:32:25,002:      pdf_renderer.py:  470: printSegment:                     if (filteredValue !== undefined) {
+   DEBUG: 2024-07-08 21:32:25,006:      pdf_renderer.py:  470: printSegment:                         res[key] = filteredValue;
+   DEBUG: 2024-07-08 21:32:25,009:      pdf_renderer.py:  470: printSegment:                     }
+   DEBUG: 2024-07-08 21:32:25,009:      pdf_renderer.py:  470: printSegment:                 }
+   DEBUG: 2024-07-08 21:32:25,009:      pdf_renderer.py:  470: printSegment:             }
+   DEBUG: 2024-07-08 21:32:25,009:      pdf_renderer.py:  470: printSegment:             return Object.keys(res).length > 0 ? res : undefined;
+   DEBUG: 2024-07-08 21:32:25,016:      pdf_renderer.py:  470: printSegment:         }
+   DEBUG: 2024-07-08 21:32:25,016:      pdf_renderer.py:  470: printSegment:         return fn(data) ? data : undefined;
+   DEBUG: 2024-07-08 21:32:25,016:      pdf_renderer.py:  470: printSegment:     };
+   DEBUG: 2024-07-08 21:32:25,023:      pdf_renderer.py:  470: printSegment:     return dfs(obj);
+   DEBUG: 2024-07-08 21:32:25,025:      pdf_renderer.py:  470: printSegment: }
+   DEBUG: 2024-07-08 21:32:25,027:      pdf_renderer.py:  470: printSegment: obj = [-5, -4, -3, -2, -1, 0, 1], 
+   DEBUG: 2024-07-08 21:32:25,027:      pdf_renderer.py:  470: printSegment: fn = (x) => x > 0
+   DEBUG: 2024-07-08 21:32:25,027:      pdf_renderer.py:  470: printSegment: console.log(deepFilter(obj, fn))
+   DEBUG: 2024-07-08 21:32:25,033:      pdf_renderer.py:  470: printSegment: obj = {"a": 1, "b": "2", "c": 3, "d": "4", "e": 5, "f": 6, "g":
+   DEBUG: 2024-07-08 21:32:25,033:      pdf_renderer.py:  470: printSegment: {"a": 1}}, 
+   DEBUG: 2024-07-08 21:32:25,033:      pdf_renderer.py:  470: printSegment: fn = (x) => typeof x === "string"
+   DEBUG: 2024-07-08 21:32:25,033:      pdf_renderer.py:  470: printSegment: console.log(deepFilter(obj, fn))
+   DEBUG: 2024-07-08 21:32:25,033:      pdf_renderer.py:  470: printSegment: obj = [[[[5]]]], 
+   DEBUG: 2024-07-08 21:32:25,038:      pdf_renderer.py:  470: printSegment: fn = (x) => Array.isArray(x)
+   DEBUG: 2024-07-08 21:32:25,041:      pdf_renderer.py:  470: printSegment: console.log(deepFilter(obj, fn))
+   DEBUG: 2024-07-08 21:32:25,042:      pdf_renderer.py:  470: printSegment: Invert an object
+   DEBUG: 2024-07-08 21:32:25,043:      pdf_renderer.py:  470: printSegment: function invertObject(obj) {
+   DEBUG: 2024-07-08 21:32:25,043:      pdf_renderer.py:  470: printSegment:     const ans = {};
+   DEBUG: 2024-07-08 21:32:25,043:      pdf_renderer.py:  470: printSegment:     for (const key in obj) {
+   DEBUG: 2024-07-08 21:32:25,043:      pdf_renderer.py:  470: printSegment:         if (ans.hasOwnProperty(obj[key])) {
+   DEBUG: 2024-07-08 21:32:25,049:      pdf_renderer.py:  470: printSegment:             if (Array.isArray(ans[obj[key]])) {
+   DEBUG: 2024-07-08 21:32:25,050:      pdf_renderer.py:  470: printSegment:                 ans[obj[key]].push(key);
+   DEBUG: 2024-07-08 21:32:25,050:      pdf_renderer.py:  470: printSegment:             } else {
+   DEBUG: 2024-07-08 21:32:25,050:      pdf_renderer.py:  470: printSegment:                 ans[obj[key]] = [ans[obj[key]], key];
+   DEBUG: 2024-07-08 21:32:25,050:      pdf_renderer.py:  470: printSegment:             }
+   DEBUG: 2024-07-08 21:32:25,056:      pdf_renderer.py:  470: printSegment:         } else {
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment:             ans[obj[key]] = key
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment:         }
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment:     return ans;
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment: }
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment: obj = ["1", "2", "3", "4", "4"]
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment: console.log(invertObject(obj))
+   DEBUG: 2024-07-08 21:32:25,058:      pdf_renderer.py:  470: printSegment: invertedObj = {"1": "0", "2": "1", "3": "2", "4": "3"}
+   DEBUG: 2024-07-08 21:32:25,066:      pdf_renderer.py:  470: printSegment: JSON.stringify
+   DEBUG: 2024-07-08 21:32:25,066:      pdf_renderer.py:  470: printSegment: function jsonStringify(object: any): string {
+   DEBUG: 2024-07-08 21:32:25,066:      pdf_renderer.py:  470: printSegment:     if (object === null) {
+   DEBUG: 2024-07-08 21:32:25,066:      pdf_renderer.py:  470: printSegment:         return 'null';
+   DEBUG: 2024-07-08 21:32:25,066:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:25,071:      pdf_renderer.py:  470: printSegment:     if (typeof object === 'string') {
+   DEBUG: 2024-07-08 21:32:25,075:      pdf_renderer.py:  470: printSegment:         return `"${object}"`;
+   DEBUG: 2024-07-08 21:32:25,075:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:25,075:      pdf_renderer.py:  470: printSegment:     if (typeof object === 'number' || typeof object === 'boolean')
+   DEBUG: 2024-07-08 21:32:25,075:      pdf_renderer.py:  470: printSegment: {
+   DEBUG: 2024-07-08 21:32:25,075:      pdf_renderer.py:  470: printSegment:         return object.toString();
+   DEBUG: 2024-07-08 21:32:25,075:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:25,082:      pdf_renderer.py:  470: printSegment:     if (Array.isArray(object)) {
+   DEBUG: 2024-07-08 21:32:25,082:      pdf_renderer.py:  470: printSegment:         return `[${object.map(jsonStringify).join(',')}]`;
+   DEBUG: 2024-07-08 21:32:25,082:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:25,082:      pdf_renderer.py:  470: printSegment:     if (typeof object === 'object') {
+   DEBUG: 2024-07-08 21:32:25,090:      pdf_renderer.py:  470: printSegment:         return `{${Object.entries(object)
+   DEBUG: 2024-07-08 21:32:25,090:      pdf_renderer.py:  470: printSegment:             .map(([key, value]) =>
+   DEBUG: 2024-07-08 21:32:25,090:      pdf_renderer.py:  470: printSegment: `${jsonStringify(key)}:${jsonStringify(value)}`)
+   DEBUG: 2024-07-08 21:32:25,090:      pdf_renderer.py:  470: printSegment:             .join(',')}}`;
+   DEBUG: 2024-07-08 21:32:25,090:      pdf_renderer.py:  470: printSegment:     }
+   DEBUG: 2024-07-08 21:32:25,098:      pdf_renderer.py:  470: printSegment:     return '';
+   DEBUG: 2024-07-08 21:32:25,098:      pdf_renderer.py:  470: printSegment: }
+   DEBUG: 2024-07-08 21:32:25,098:      pdf_renderer.py:  470: printSegment: Input: object = {"y":1,"x":2}
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:  470: printSegment: Output: {"y":1,"x":2}
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 0, [1, 'JavaScript Object Types', 1, 68.0]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 1, [3, 'typeof Operator', 2, 272.4]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 2, [3, 'instanceof Operator', 2, 529.1999999999999]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 3, [4, 'checkIfInstanceOf(obj, classFunction)', 3, 362.0]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 4, [4, 'Flatten Array with nested arrys inside it and given depth', 3, 458.0]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 5, [4, 'Deep Equals of two objects', 3, 698.0]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 6, [4, 'Deep Filter of an object', 4, 404.0]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 7, [4, 'Invert an object', 5, 188.0]
+   DEBUG: 2024-07-08 21:32:25,102:      pdf_renderer.py:   53: 8, [4, 'JSON.stringify', 5, 440.0]
+   ERROR: 2024-07-08 21:32:25,102:      pdf_renderer.py:   57: Bad heading level.  More information:
+Traceback (most recent call last):
+  File "C:\Users\vesai\AppData\Local\anaconda3\Lib\site-packages\mdpdf\pdf_renderer.py", line 55, in __del__
+    self.doc.set_toc(self.toc)
+  File "C:\Users\vesai\AppData\Local\anaconda3\Lib\site-packages\pymupdf\utils.py", line 1357, in set_toc
+    raise ValueError("bad hierarchy level in row %i" % (i + 1))
+ValueError: bad hierarchy level in row 1
+    INFO: 2024-07-08 21:32:25,106:      pdf_renderer.py:   59: [3, 'typeof Operator', 2, 272.4]
